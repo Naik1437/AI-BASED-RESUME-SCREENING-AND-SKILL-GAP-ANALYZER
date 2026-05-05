@@ -1,0 +1,6 @@
+target/
+*.class
+*.log
+__pycache__/
+.env
+uploads/
